@@ -1,8 +1,8 @@
 # OrnekSite
 
 ## Technologies
-* .NET Core 3.x
-* ASP.NET Core 3.x
+* .NET Core 5.x
+* ASP.NET Core 5.x
 * Entity Framework Core 3.x 
 * .NET Core Native DI
 * Razor Pages
@@ -28,15 +28,13 @@
 ## Contributing
 
 Please read [Contributing.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-We have a lot of **missing features** you can check [here from our project page](https://github.com/aspnetrun/run-aspnetcore-realworld/projects/1) and you can develop them. We are waiting for your pull requests.
+We have a lot of **missing features** 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/aspnetrun/run-core/tags). 
+We use [SemVer](http://semver.org/) for versioning. 
 
-## Next Releases and RoapMap
 
-For information on upcoming features and fixes, take a look at the [product roadmap](https://github.com/aspnetrun/run-core/projects).
 
 ## Deployment - AspnetRun Online
 
@@ -45,7 +43,7 @@ This project is deployed on Azure. See the project running on Azure in [here](as
 ## Pull-Request
 
 Please fork this repository, and send me your findings with pull-requests. This is open-source repository so open to contributions.
-Get your item from **missing features** [here from our project page](https://github.com/aspnetrun/run-aspnetcore-realworld/projects/1) and send us your pull requests.
+Get your item from **missing features** [here from our project page](https://github.com/murataslan1/OrnekSite/pulls) and send us your pull requests.
 
 ## Authors
 
