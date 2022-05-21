@@ -22,12 +22,12 @@
 ## Disclaimer
 
 * This repository is not intended to be a definitive solution.
-* This repository not implemented a lot of 3rd party packages, we are try to avoid the over engineering when building on best practices.
+* This repository not implemented a lot of 3rd party packages, I  try to avoid the over engineering when building on best practices.
 * Beware to use in production way.
 
 ## Contributing
 
-Please read [Contributing.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md](https://gist.github.com/murataslan1/b90abfedf9141d07dcc827158c9acce4) for details on our code of conduct, and the process for submitting pull requests to us.
 We have a lot of **missing features** 
 
 ## Versioning
